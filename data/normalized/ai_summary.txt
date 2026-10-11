@@ -1,0 +1,46 @@
+## PATIENT OVERVIEW
+- **Name:** Albert312 Bryce11 Gottlieb798
+- **Patient ID:** 73c1537e-544a-dc37-2f2c-55f53a1496cd
+- **Gender:** Male
+- **Date of birth:** 1988-06-25
+
+## DOCUMENTED CONDITIONS
+The chart documents the following conditions and findings; their current activity is not specified:
+- Essential hypertension; prediabetes; metabolic syndrome X; anemia
+- Chronic pain; stress; drug misuse
+- BMI 30+ / obesity
+- Acute bronchitis; acute viral pharyngitis
+- Gingivitis, gingival disease, and tooth infection
+- Medication review due
+- Received higher education; full-time employment; part-time employment; not in labor force
+- Reports of violence in the environment
+
+## ACTIVE MEDICATIONS
+- Lisinopril 10 mg oral tablet
+
+## RECENT VITALS AND LABS
+**2025-10-25**
+- Blood pressure: **142/96 mmHg**
+- Hemoglobin A1c: **6.28%**
+- Glucose: **89.12 mg/dL**
+- Creatinine: **1.35 mg/dL**
+- Weight: **94.2 kg**
+- BMI: **27.93 kg/m²**
+- Heart rate: **77/min**
+- Tobacco status: **Ex-smoker**
+
+**2024-10-19**
+- Total cholesterol: **201.21 mg/dL**
+- Triglycerides: **139.23 mg/dL**
+- LDL cholesterol: **119.17 mg/dL**
+- HDL cholesterol: **54.19 mg/dL**
+
+## RECENT ENCOUNTERS
+- General examination: 2023-10-14
+- General examination: 2024-10-19
+- Check-up: 2024-11-02
+- General examination: 2025-10-25
+- Check-up: 2025-11-08
+
+## CLINICAL SUMMARY
+The chart lists hypertension, prediabetes, metabolic syndrome, and other historical conditions/findings. Lisinopril 10 mg is the only medication listed as active. Latest measurements include blood pressure of 142/96 mmHg and A1c of 6.28% on 2025-10-25; the measured BMI was 27.93 kg/m².

@@ -1,0 +1,326 @@
+{
+  "resourceType": "Bundle",
+  "type": "batch",
+  "entry": [ {
+    "fullUrl": "urn:uuid:046675d4-95c3-32b1-8d54-a591d7a3b53c",
+    "resource": {
+      "resourceType": "Practitioner",
+      "id": "046675d4-95c3-32b1-8d54-a591d7a3b53c",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 2
+      } ],
+      "identifier": [ {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "9999901694"
+      } ],
+      "active": true,
+      "name": [ {
+        "family": "Carter549",
+        "given": [ "Maira380" ],
+        "prefix": [ "Dr." ]
+      } ],
+      "telecom": [ {
+        "extension": [ {
+          "url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-direct",
+          "valueBoolean": true
+        } ],
+        "system": "email",
+        "value": "Maira380.Carter549@example.com",
+        "use": "work"
+      } ],
+      "address": [ {
+        "line": [ "720 BOSTON POST ROAD" ],
+        "city": "MARLBOROUGH",
+        "state": "MA",
+        "postalCode": "017523766",
+        "country": "US"
+      } ],
+      "gender": "female"
+    },
+    "request": {
+      "method": "POST",
+      "url": "Practitioner",
+      "ifNoneExist": "identifier=http://hl7.org/fhir/sid/us-npi|9999901694"
+    }
+  }, {
+    "fullUrl": "urn:uuid:5c7e58ce-4a70-5b49-b99c-1d425b1fe328",
+    "resource": {
+      "resourceType": "PractitionerRole",
+      "id": "5c7e58ce-4a70-5b49-b99c-1d425b1fe328",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitionerrole" ]
+      },
+      "practitioner": {
+        "identifier": {
+          "system": "http://hl7.org/fhir/sid/us-npi",
+          "value": "9999901694"
+        },
+        "display": "Dr. Maira380 Carter549"
+      },
+      "organization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "65f0254a-73a3-3b06-bced-54d511445535"
+        },
+        "display": "ALLIANCE HEALTH AT MARIE ESTHER"
+      },
+      "code": [ {
+        "coding": [ {
+          "system": "http://nucc.org/provider-taxonomy",
+          "code": "208D00000X",
+          "display": "General Practice Physician"
+        } ],
+        "text": "General Practice Physician"
+      } ],
+      "specialty": [ {
+        "coding": [ {
+          "system": "http://nucc.org/provider-taxonomy",
+          "code": "208D00000X",
+          "display": "General Practice Physician"
+        } ],
+        "text": "General Practice Physician"
+      } ],
+      "location": [ {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "a0a41aeb-e391-342e-87eb-041a771365fa"
+        },
+        "display": "ALLIANCE HEALTH AT MARIE ESTHER"
+      } ],
+      "telecom": [ {
+        "system": "phone",
+        "value": "5084853791"
+      }, {
+        "extension": [ {
+          "url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-direct",
+          "valueBoolean": true
+        } ],
+        "system": "email",
+        "value": "Maira380.Carter549@example.com",
+        "use": "work"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "PractitionerRole"
+    }
+  }, {
+    "fullUrl": "urn:uuid:661f9531-6405-3908-b82f-f20f75f70e26",
+    "resource": {
+      "resourceType": "Practitioner",
+      "id": "661f9531-6405-3908-b82f-f20f75f70e26",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 28
+      } ],
+      "identifier": [ {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "9999955294"
+      } ],
+      "active": true,
+      "name": [ {
+        "family": "Wiza601",
+        "given": [ "Hedwig986" ],
+        "prefix": [ "Dr." ]
+      } ],
+      "telecom": [ {
+        "extension": [ {
+          "url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-direct",
+          "valueBoolean": true
+        } ],
+        "system": "email",
+        "value": "Hedwig986.Wiza601@example.com",
+        "use": "work"
+      } ],
+      "address": [ {
+        "line": [ "2284 MAIN ST" ],
+        "city": "CONCORD",
+        "state": "MA",
+        "postalCode": "017423829",
+        "country": "US"
+      } ],
+      "gender": "female"
+    },
+    "request": {
+      "method": "POST",
+      "url": "Practitioner",
+      "ifNoneExist": "identifier=http://hl7.org/fhir/sid/us-npi|9999955294"
+    }
+  }, {
+    "fullUrl": "urn:uuid:f0aeb16a-13cc-12e2-09be-21db6ad98260",
+    "resource": {
+      "resourceType": "PractitionerRole",
+      "id": "f0aeb16a-13cc-12e2-09be-21db6ad98260",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitionerrole" ]
+      },
+      "practitioner": {
+        "identifier": {
+          "system": "http://hl7.org/fhir/sid/us-npi",
+          "value": "9999955294"
+        },
+        "display": "Dr. Hedwig986 Wiza601"
+      },
+      "organization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "b5e6f1bd-c744-3556-9775-5ff8399eea33"
+        },
+        "display": "CONCORD INTERNAL MEDICINE ASSOCIATES, P.C."
+      },
+      "code": [ {
+        "coding": [ {
+          "system": "http://nucc.org/provider-taxonomy",
+          "code": "208D00000X",
+          "display": "General Practice Physician"
+        } ],
+        "text": "General Practice Physician"
+      } ],
+      "specialty": [ {
+        "coding": [ {
+          "system": "http://nucc.org/provider-taxonomy",
+          "code": "208D00000X",
+          "display": "General Practice Physician"
+        } ],
+        "text": "General Practice Physician"
+      } ],
+      "location": [ {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "36e8d62f-0e41-3c83-8478-6978585ab547"
+        },
+        "display": "CONCORD INTERNAL MEDICINE ASSOCIATES, P.C."
+      } ],
+      "telecom": [ {
+        "system": "phone",
+        "value": "9783695575"
+      }, {
+        "extension": [ {
+          "url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-direct",
+          "valueBoolean": true
+        } ],
+        "system": "email",
+        "value": "Hedwig986.Wiza601@example.com",
+        "use": "work"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "PractitionerRole"
+    }
+  }, {
+    "fullUrl": "urn:uuid:0f036d54-6a8d-3885-bef9-53896df78dd7",
+    "resource": {
+      "resourceType": "Practitioner",
+      "id": "0f036d54-6a8d-3885-bef9-53896df78dd7",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitioner" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 18
+      } ],
+      "identifier": [ {
+        "system": "http://hl7.org/fhir/sid/us-npi",
+        "value": "9999989798"
+      } ],
+      "active": true,
+      "name": [ {
+        "family": "Schumm995",
+        "given": [ "Leonarda398" ],
+        "prefix": [ "Dr." ]
+      } ],
+      "telecom": [ {
+        "extension": [ {
+          "url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-direct",
+          "valueBoolean": true
+        } ],
+        "system": "email",
+        "value": "Leonarda398.Schumm995@example.com",
+        "use": "work"
+      } ],
+      "address": [ {
+        "line": [ "250 POND STREET" ],
+        "city": "FRAMINGHAM",
+        "state": "MA",
+        "postalCode": "017014592",
+        "country": "US"
+      } ],
+      "gender": "female"
+    },
+    "request": {
+      "method": "POST",
+      "url": "Practitioner",
+      "ifNoneExist": "identifier=http://hl7.org/fhir/sid/us-npi|9999989798"
+    }
+  }, {
+    "fullUrl": "urn:uuid:e6b2f3df-3750-9552-1a48-ed0a8cad3567",
+    "resource": {
+      "resourceType": "PractitionerRole",
+      "id": "e6b2f3df-3750-9552-1a48-ed0a8cad3567",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-practitionerrole" ]
+      },
+      "practitioner": {
+        "identifier": {
+          "system": "http://hl7.org/fhir/sid/us-npi",
+          "value": "9999989798"
+        },
+        "display": "Dr. Leonarda398 Schumm995"
+      },
+      "organization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "05fcf001-ab24-3d7d-85f7-f64942d82738"
+        },
+        "display": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE"
+      },
+      "code": [ {
+        "coding": [ {
+          "system": "http://nucc.org/provider-taxonomy",
+          "code": "208D00000X",
+          "display": "General Practice Physician"
+        } ],
+        "text": "General Practice Physician"
+      } ],
+      "specialty": [ {
+        "coding": [ {
+          "system": "http://nucc.org/provider-taxonomy",
+          "code": "208D00000X",
+          "display": "General Practice Physician"
+        } ],
+        "text": "General Practice Physician"
+      } ],
+      "location": [ {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "c5abd580-26ee-37c4-a7f7-69c98a4ee69e"
+        },
+        "display": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE"
+      } ],
+      "telecom": [ {
+        "system": "phone",
+        "value": "7818485353"
+      }, {
+        "extension": [ {
+          "url": "http://hl7.org/fhir/us/core/StructureDefinition/us-core-direct",
+          "valueBoolean": true
+        } ],
+        "system": "email",
+        "value": "Leonarda398.Schumm995@example.com",
+        "use": "work"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "PractitionerRole"
+    }
+  } ]
+}

@@ -1,0 +1,318 @@
+{
+  "resourceType": "Bundle",
+  "type": "batch",
+  "entry": [ {
+    "fullUrl": "urn:uuid:65f0254a-73a3-3b06-bced-54d511445535",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "65f0254a-73a3-3b06-bced-54d511445535",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 2
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/bed-count-extension",
+        "valueInteger": 78
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "65f0254a-73a3-3b06-bced-54d511445535"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "ALLIANCE HEALTH AT MARIE ESTHER",
+      "telecom": [ {
+        "system": "phone",
+        "value": "5084853791"
+      } ],
+      "address": [ {
+        "line": [ "720 BOSTON POST ROAD" ],
+        "city": "MARLBOROUGH",
+        "state": "MA",
+        "postalCode": "017523766",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|65f0254a-73a3-3b06-bced-54d511445535"
+    }
+  }, {
+    "fullUrl": "urn:uuid:a0a41aeb-e391-342e-87eb-041a771365fa",
+    "resource": {
+      "resourceType": "Location",
+      "id": "a0a41aeb-e391-342e-87eb-041a771365fa",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "a0a41aeb-e391-342e-87eb-041a771365fa"
+      } ],
+      "status": "active",
+      "name": "ALLIANCE HEALTH AT MARIE ESTHER",
+      "telecom": [ {
+        "system": "phone",
+        "value": "5084853791"
+      } ],
+      "address": {
+        "line": [ "720 BOSTON POST ROAD" ],
+        "city": "MARLBOROUGH",
+        "state": "MA",
+        "postalCode": "017523766",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -71.47654,
+        "latitude": 42.355106
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "65f0254a-73a3-3b06-bced-54d511445535"
+        },
+        "display": "ALLIANCE HEALTH AT MARIE ESTHER"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|a0a41aeb-e391-342e-87eb-041a771365fa"
+    }
+  }, {
+    "fullUrl": "urn:uuid:b5e6f1bd-c744-3556-9775-5ff8399eea33",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "b5e6f1bd-c744-3556-9775-5ff8399eea33",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 28
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 152
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 21
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 12
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "b5e6f1bd-c744-3556-9775-5ff8399eea33"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "CONCORD INTERNAL MEDICINE ASSOCIATES, P.C.",
+      "telecom": [ {
+        "system": "phone",
+        "value": "9783695575"
+      } ],
+      "address": [ {
+        "line": [ "2284 MAIN ST" ],
+        "city": "CONCORD",
+        "state": "MA",
+        "postalCode": "017423829",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|b5e6f1bd-c744-3556-9775-5ff8399eea33"
+    }
+  }, {
+    "fullUrl": "urn:uuid:36e8d62f-0e41-3c83-8478-6978585ab547",
+    "resource": {
+      "resourceType": "Location",
+      "id": "36e8d62f-0e41-3c83-8478-6978585ab547",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "36e8d62f-0e41-3c83-8478-6978585ab547"
+      } ],
+      "status": "active",
+      "name": "CONCORD INTERNAL MEDICINE ASSOCIATES, P.C.",
+      "telecom": [ {
+        "system": "phone",
+        "value": "9783695575"
+      } ],
+      "address": {
+        "line": [ "2284 MAIN ST" ],
+        "city": "CONCORD",
+        "state": "MA",
+        "postalCode": "017423829",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -71.42458458423982,
+        "latitude": 42.44300895
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "b5e6f1bd-c744-3556-9775-5ff8399eea33"
+        },
+        "display": "CONCORD INTERNAL MEDICINE ASSOCIATES, P.C."
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|36e8d62f-0e41-3c83-8478-6978585ab547"
+    }
+  }, {
+    "fullUrl": "urn:uuid:05fcf001-ab24-3d7d-85f7-f64942d82738",
+    "resource": {
+      "resourceType": "Organization",
+      "id": "05fcf001-ab24-3d7d-85f7-f64942d82738",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-organization" ]
+      },
+      "extension": [ {
+        "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+        "valueInteger": 18
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+        "valueInteger": 0
+      }, {
+        "url": "http://synthetichealth.github.io/synthea/bed-count-extension",
+        "valueInteger": 187
+      } ],
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "05fcf001-ab24-3d7d-85f7-f64942d82738"
+      } ],
+      "active": true,
+      "type": [ {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+          "code": "prov",
+          "display": "Healthcare Provider"
+        } ],
+        "text": "Healthcare Provider"
+      } ],
+      "name": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE",
+      "telecom": [ {
+        "system": "phone",
+        "value": "7818485353"
+      } ],
+      "address": [ {
+        "line": [ "250 POND STREET" ],
+        "city": "FRAMINGHAM",
+        "state": "MA",
+        "postalCode": "017014592",
+        "country": "US"
+      } ]
+    },
+    "request": {
+      "method": "POST",
+      "url": "Organization",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|05fcf001-ab24-3d7d-85f7-f64942d82738"
+    }
+  }, {
+    "fullUrl": "urn:uuid:c5abd580-26ee-37c4-a7f7-69c98a4ee69e",
+    "resource": {
+      "resourceType": "Location",
+      "id": "c5abd580-26ee-37c4-a7f7-69c98a4ee69e",
+      "meta": {
+        "profile": [ "http://hl7.org/fhir/us/core/StructureDefinition/us-core-location" ]
+      },
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "c5abd580-26ee-37c4-a7f7-69c98a4ee69e"
+      } ],
+      "status": "active",
+      "name": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE",
+      "telecom": [ {
+        "system": "phone",
+        "value": "7818485353"
+      } ],
+      "address": {
+        "line": [ "250 POND STREET" ],
+        "city": "FRAMINGHAM",
+        "state": "MA",
+        "postalCode": "017014592",
+        "country": "US"
+      },
+      "position": {
+        "longitude": -71.4093719,
+        "latitude": 42.2838619
+      },
+      "managingOrganization": {
+        "identifier": {
+          "system": "https://github.com/synthetichealth/synthea",
+          "value": "05fcf001-ab24-3d7d-85f7-f64942d82738"
+        },
+        "display": "ENCOMPASS HEALTH BRAINTREE HOSPITAL OF BRAINTREE"
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|c5abd580-26ee-37c4-a7f7-69c98a4ee69e"
+    }
+  }, {
+    "fullUrl": "urn:uuid:bb1ad573-19b8-9cd8-68fb-0e6f684df992",
+    "resource": {
+      "resourceType": "Location",
+      "id": "bb1ad573-19b8-9cd8-68fb-0e6f684df992",
+      "identifier": [ {
+        "system": "https://github.com/synthetichealth/synthea",
+        "value": "bb1ad573-19b8-9cd8-68fb-0e6f684df992"
+      } ],
+      "status": "active",
+      "description": "Patient's Home",
+      "mode": "kind",
+      "physicalType": {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/location-physical-type",
+          "code": "ho",
+          "display": "House"
+        } ]
+      }
+    },
+    "request": {
+      "method": "POST",
+      "url": "Location",
+      "ifNoneExist": "identifier=https://github.com/synthetichealth/synthea|bb1ad573-19b8-9cd8-68fb-0e6f684df992"
+    }
+  } ]
+}

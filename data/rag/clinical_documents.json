@@ -1,0 +1,2620 @@
+[
+  {
+    "text": "Condition: Medication review due (situation). Onset date: 2004-08-07T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-5cdb-528c1c8bc3b4",
+      "date": "2004-08-07T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Prediabetes (finding). Onset date: 2006-08-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-4d48-85250ce84ff1",
+      "date": "2006-08-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Received higher education (finding). Onset date: 2006-08-19T14:42:16-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-7726-45b31f2d78df",
+      "date": "2006-08-19T14:42:16-07:00"
+    }
+  },
+  {
+    "text": "Condition: Chronic pain (finding). Onset date: 2007-04-04T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-e93d-1a1e042b17bc",
+      "date": "2007-04-04T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Full-time employment (finding). Onset date: 2013-08-31T14:42:09-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-0672-150e04b68682",
+      "date": "2013-08-31T14:42:09-07:00"
+    }
+  },
+  {
+    "text": "Condition: Essential hypertension (disorder). Onset date: 2016-09-03T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-fa52-276bbb1a29e3",
+      "date": "2016-09-03T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Anemia (disorder). Onset date: 2016-09-03T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-4b16-a89b51c1d69c",
+      "date": "2016-09-03T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Medication: lisinopril 10 MG Oral Tablet. Status: completed. Ordered: 2016-09-03T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "MedicationRequest",
+      "resource_id": "73c1537e-544a-dc37-63c0-65751c5af3cd",
+      "date": "2016-09-03T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Stress (finding). Onset date: 2017-09-09T15:03:27-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-3b96-56f0aa2980ff",
+      "date": "2017-09-09T15:03:27-07:00"
+    }
+  },
+  {
+    "text": "Observation: Hemoglobin A1c/Hemoglobin.total in Blood. Value: 5.88 %. Date: 2017-09-09T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-c0a7-4f542fba8a5c",
+      "date": "2017-09-09T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Height. Value: 183.6 cm. Date: 2017-09-09T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-f871-588bbe0eb1e1",
+      "date": "2017-09-09T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Pain severity - 0-10 verbal numeric rating [Score] - Reported. Value: 4 {score}. Date: 2017-09-09T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-087e-f876ca4852e3",
+      "date": "2017-09-09T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Weight. Value: 98 kg. Date: 2017-09-09T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-0136-7983c3a7268f",
+      "date": "2017-09-09T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body mass index (BMI) [Ratio]. Value: 29.07 kg/m2. Date: 2017-09-09T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-e3e0-87c2a15a353f",
+      "date": "2017-09-09T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Heart rate. Value: 94 /min. Date: 2017-09-09T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-e539-1e864c22d4f9",
+      "date": "2017-09-09T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Respiratory rate. Value: 14 /min. Date: 2017-09-09T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-1c8e-69765850514f",
+      "date": "2017-09-09T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Glucose [Mass/volume] in Blood. Value: 82.57 mg/dL. Date: 2017-09-09T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-2665-bf119bae8163",
+      "date": "2017-09-09T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Urea nitrogen [Mass/volume] in Blood. Value: 14.9 mg/dL. Date: 2017-09-09T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-1290-84c006e193cd",
+      "date": "2017-09-09T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Creatinine [Mass/volume] in Blood. Value: 1.6 mg/dL. Date: 2017-09-09T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-1f41-b0f5c68a4dd0",
+      "date": "2017-09-09T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Calcium [Mass/volume] in Blood. Value: 8.59 mg/dL. Date: 2017-09-09T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-5446-dc1e1eb57538",
+      "date": "2017-09-09T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Sodium [Moles/volume] in Blood. Value: 136.71 mmol/L. Date: 2017-09-09T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-23f7-20e3088cc247",
+      "date": "2017-09-09T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Potassium [Moles/volume] in Blood. Value: 4.62 mmol/L. Date: 2017-09-09T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-0acc-0f7577099bb2",
+      "date": "2017-09-09T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Chloride [Moles/volume] in Blood. Value: 105.31 mmol/L. Date: 2017-09-09T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-78da-22f17327e0a5",
+      "date": "2017-09-09T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Carbon dioxide, total [Moles/volume] in Blood. Value: 26.96 mmol/L. Date: 2017-09-09T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-c36a-e04d050af81b",
+      "date": "2017-09-09T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]. Value: 1 {score}. Date: 2017-09-09T15:40:19-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-f7e0-64cc0601615b",
+      "date": "2017-09-09T15:40:19-07:00"
+    }
+  },
+  {
+    "text": "Observation: Total score [AUDIT-C]. Value: 1 {score}. Date: 2017-09-09T16:19:00-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-f2ee-c1a824181812",
+      "date": "2017-09-09T16:19:00-07:00"
+    }
+  },
+  {
+    "text": "Medication: lisinopril 10 MG Oral Tablet. Status: completed. Ordered: 2017-09-09T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "MedicationRequest",
+      "resource_id": "73c1537e-544a-dc37-7ae0-bddf48e3089a",
+      "date": "2017-09-09T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Medication: Medication reference: urn:uuid:dfc8440e-9e19-2c7e-a081-e5a5c931a9da. Status: completed. Ordered: 2017-09-23T16:38:53-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "MedicationRequest",
+      "resource_id": "73c1537e-544a-dc37-ffe0-51d315ea3f34",
+      "date": "2017-09-23T16:38:53-07:00"
+    }
+  },
+  {
+    "text": "Condition: Not in labor force (finding). Onset date: 2018-09-15T15:10:07-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-6ea1-fe4bb24d0512",
+      "date": "2018-09-15T15:10:07-07:00"
+    }
+  },
+  {
+    "text": "Condition: Misuses drugs (finding). Onset date: 2018-09-15T16:30:18-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-d84f-af11c2865bf9",
+      "date": "2018-09-15T16:30:18-07:00"
+    }
+  },
+  {
+    "text": "Observation: Hemoglobin A1c/Hemoglobin.total in Blood. Value: 6.04 %. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-5018-d1d89f159d99",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Height. Value: 183.6 cm. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-7bac-b4c34f51556f",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Pain severity - 0-10 verbal numeric rating [Score] - Reported. Value: 1 {score}. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-04e4-a9bbe72d2c44",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Weight. Value: 100.3 kg. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-df0d-fad6e38d691b",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body mass index (BMI) [Ratio]. Value: 29.75 kg/m2. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-d42f-b24b84b09e07",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Heart rate. Value: 89 /min. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-8081-61a39d5d8a28",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Respiratory rate. Value: 15 /min. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-0d84-31dcf3152957",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Glucose [Mass/volume] in Blood. Value: 77.17 mg/dL. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-7551-201a143dedfa",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Urea nitrogen [Mass/volume] in Blood. Value: 12.6 mg/dL. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-a9dc-964a8270e7bd",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Creatinine [Mass/volume] in Blood. Value: 1.53 mg/dL. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-9f03-6a02e27b80d1",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Calcium [Mass/volume] in Blood. Value: 8.76 mg/dL. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-4e5f-4d576ca9d66e",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Sodium [Moles/volume] in Blood. Value: 140.45 mmol/L. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-3bdb-1861496d477e",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Potassium [Moles/volume] in Blood. Value: 4.27 mmol/L. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-395f-e06f318b9da7",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Chloride [Moles/volume] in Blood. Value: 109.09 mmol/L. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-9a17-56c95e3d2871",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Carbon dioxide, total [Moles/volume] in Blood. Value: 22.27 mmol/L. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-6c14-7f3f69a19ba7",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Cholesterol [Mass/volume] in Serum or Plasma. Value: 154.55 mg/dL. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-36e4-7d5513b3bb81",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Triglyceride [Mass/volume] in Serum or Plasma. Value: 113.09 mg/dL. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-5b53-38750843b6ea",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay. Value: 71.04 mg/dL. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-7f6e-860786396534",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Cholesterol in HDL [Mass/volume] in Serum or Plasma. Value: 60.89 mg/dL. Date: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-b3b0-4a5d17291f70",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]. Value: 1 {score}. Date: 2018-09-15T15:51:35-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-f5ba-a4e80750b6d7",
+      "date": "2018-09-15T15:51:35-07:00"
+    }
+  },
+  {
+    "text": "Observation: Total score [DAST-10]. Value: 7 {score}. Date: 2018-09-15T16:30:18-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-fc26-738b65d78e80",
+      "date": "2018-09-15T16:30:18-07:00"
+    }
+  },
+  {
+    "text": "Medication: lisinopril 10 MG Oral Tablet. Status: completed. Ordered: 2018-09-15T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "MedicationRequest",
+      "resource_id": "73c1537e-544a-dc37-14b1-42f3976bc19d",
+      "date": "2018-09-15T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Medication: Medication reference: urn:uuid:fbb92e02-65f1-5a41-f626-72e617792ffe. Status: completed. Ordered: 2018-09-29T16:41:06-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "MedicationRequest",
+      "resource_id": "73c1537e-544a-dc37-227d-1dd98e51475f",
+      "date": "2018-09-29T16:41:06-07:00"
+    }
+  },
+  {
+    "text": "Condition: Medication review due (situation). Onset date: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-c6c8-da3662f34913",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Body mass index 30+ - obesity (finding). Onset date: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-032c-e3fe56ac896b",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Full-time employment (finding). Onset date: 2019-03-23T15:05:33-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-ac57-1acd23db7c44",
+      "date": "2019-03-23T15:05:33-07:00"
+    }
+  },
+  {
+    "text": "Observation: Hemoglobin A1c/Hemoglobin.total in Blood. Value: 6.12 %. Date: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-2382-b2b0812a40ce",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Height. Value: 183.6 cm. Date: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-902a-1a9e719f962f",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Pain severity - 0-10 verbal numeric rating [Score] - Reported. Value: 2 {score}. Date: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-d3bf-60d1c198117e",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Weight. Value: 101.5 kg. Date: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-1bde-c92a954995bb",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body mass index (BMI) [Ratio]. Value: 30.1 kg/m2. Date: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-7b99-305adbb83967",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Heart rate. Value: 61 /min. Date: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-06d4-e965041245fb",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Respiratory rate. Value: 15 /min. Date: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-60b3-c0d366395d1d",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Glucose [Mass/volume] in Blood. Value: 79.66 mg/dL. Date: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-bd88-de8d1bd9d1f2",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Urea nitrogen [Mass/volume] in Blood. Value: 17.96 mg/dL. Date: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-2689-1883e2084f2c",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Creatinine [Mass/volume] in Blood. Value: 1.88 mg/dL. Date: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-eae2-96fc791e0596",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Calcium [Mass/volume] in Blood. Value: 9.67 mg/dL. Date: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-1f6e-ef9b64df8851",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Sodium [Moles/volume] in Blood. Value: 138.9 mmol/L. Date: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-7eea-efe4a3f3aecd",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Potassium [Moles/volume] in Blood. Value: 3.76 mmol/L. Date: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-b53d-73c55f45dff8",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Chloride [Moles/volume] in Blood. Value: 109.82 mmol/L. Date: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-a4c2-d915d5f2e97f",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Carbon dioxide, total [Moles/volume] in Blood. Value: 23.04 mmol/L. Date: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-56fe-8f438d617708",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]. Value: 0 {score}. Date: 2019-03-23T15:38:59-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-79eb-c85fa5f4cada",
+      "date": "2019-03-23T15:38:59-07:00"
+    }
+  },
+  {
+    "text": "Observation: Total score [DAST-10]. Value: 1 {score}. Date: 2019-03-23T16:20:11-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-051b-0546da5effdf",
+      "date": "2019-03-23T16:20:11-07:00"
+    }
+  },
+  {
+    "text": "Medication: lisinopril 10 MG Oral Tablet. Status: completed. Ordered: 2019-03-23T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "MedicationRequest",
+      "resource_id": "73c1537e-544a-dc37-f21d-e57485c7ed12",
+      "date": "2019-03-23T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Acute bronchitis (disorder). Onset date: 2019-03-30T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-7994-a5d2dae046d9",
+      "date": "2019-03-30T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Medication: Acetaminophen 325 MG Oral Tablet. Status: completed. Ordered: 2019-03-30T14:20:52-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "MedicationRequest",
+      "resource_id": "73c1537e-544a-dc37-c6e0-e23379302f9b",
+      "date": "2019-03-30T14:20:52-07:00"
+    }
+  },
+  {
+    "text": "Condition: Medication review due (situation). Onset date: 2019-09-21T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-959c-a2724b3cfc5d",
+      "date": "2019-09-21T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Part-time employment (finding). Onset date: 2019-09-21T15:03:45-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-3e1c-e14a1b54fe7d",
+      "date": "2019-09-21T15:03:45-07:00"
+    }
+  },
+  {
+    "text": "Observation: Hemoglobin A1c/Hemoglobin.total in Blood. Value: 5.94 %. Date: 2019-09-21T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-93c8-191250b024b4",
+      "date": "2019-09-21T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Height. Value: 183.6 cm. Date: 2019-09-21T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-66d0-3a404a6ab25a",
+      "date": "2019-09-21T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Pain severity - 0-10 verbal numeric rating [Score] - Reported. Value: 1 {score}. Date: 2019-09-21T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-0f39-c2e5ce83eb22",
+      "date": "2019-09-21T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Weight. Value: 102.1 kg. Date: 2019-09-21T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-5657-28d91af290b9",
+      "date": "2019-09-21T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body mass index (BMI) [Ratio]. Value: 30.29 kg/m2. Date: 2019-09-21T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-7c00-02a16142adb1",
+      "date": "2019-09-21T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Heart rate. Value: 74 /min. Date: 2019-09-21T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-73b1-60c17c49547f",
+      "date": "2019-09-21T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Respiratory rate. Value: 13 /min. Date: 2019-09-21T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-2719-32617504237e",
+      "date": "2019-09-21T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Glucose [Mass/volume] in Blood. Value: 89.23 mg/dL. Date: 2019-09-21T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-dcd8-65699e6865f2",
+      "date": "2019-09-21T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Urea nitrogen [Mass/volume] in Blood. Value: 15.37 mg/dL. Date: 2019-09-21T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-1a68-e1045a493e9f",
+      "date": "2019-09-21T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Creatinine [Mass/volume] in Blood. Value: 1.55 mg/dL. Date: 2019-09-21T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-ff6e-cca394b6b489",
+      "date": "2019-09-21T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Calcium [Mass/volume] in Blood. Value: 10.02 mg/dL. Date: 2019-09-21T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-6308-c43a8462fcc6",
+      "date": "2019-09-21T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Sodium [Moles/volume] in Blood. Value: 140.01 mmol/L. Date: 2019-09-21T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-7775-9f605e6d601b",
+      "date": "2019-09-21T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Potassium [Moles/volume] in Blood. Value: 3.86 mmol/L. Date: 2019-09-21T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-ee36-acd3ffbea083",
+      "date": "2019-09-21T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Chloride [Moles/volume] in Blood. Value: 105.87 mmol/L. Date: 2019-09-21T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-e129-207df7f1c59e",
+      "date": "2019-09-21T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Carbon dioxide, total [Moles/volume] in Blood. Value: 24.39 mmol/L. Date: 2019-09-21T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-d15c-42594fb86257",
+      "date": "2019-09-21T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]. Value: 1 {score}. Date: 2019-09-21T15:24:52-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-c491-9934cce6622e",
+      "date": "2019-09-21T15:24:52-07:00"
+    }
+  },
+  {
+    "text": "Observation: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]. Value: 1 {score}. Date: 2019-09-21T16:02:12-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-19dd-19334a2da234",
+      "date": "2019-09-21T16:02:12-07:00"
+    }
+  },
+  {
+    "text": "Medication: lisinopril 10 MG Oral Tablet. Status: completed. Ordered: 2019-09-21T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "MedicationRequest",
+      "resource_id": "73c1537e-544a-dc37-982a-548f47a56593",
+      "date": "2019-09-21T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Full-time employment (finding). Onset date: 2020-09-26T15:05:30-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-1610-814d96a4d0c3",
+      "date": "2020-09-26T15:05:30-07:00"
+    }
+  },
+  {
+    "text": "Observation: Hemoglobin A1c/Hemoglobin.total in Blood. Value: 6.3 %. Date: 2020-09-26T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-05e7-16f59134f1e5",
+      "date": "2020-09-26T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Height. Value: 183.6 cm. Date: 2020-09-26T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-0079-b611d28a99de",
+      "date": "2020-09-26T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Pain severity - 0-10 verbal numeric rating [Score] - Reported. Value: 1 {score}. Date: 2020-09-26T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-c96d-b65a22f49d82",
+      "date": "2020-09-26T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Weight. Value: 102.1 kg. Date: 2020-09-26T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-e5d8-857c59e3240a",
+      "date": "2020-09-26T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body mass index (BMI) [Ratio]. Value: 30.29 kg/m2. Date: 2020-09-26T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-0161-c0e93c405f7b",
+      "date": "2020-09-26T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Heart rate. Value: 94 /min. Date: 2020-09-26T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-ece0-76b1e69985de",
+      "date": "2020-09-26T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Respiratory rate. Value: 15 /min. Date: 2020-09-26T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-8445-a385eff07987",
+      "date": "2020-09-26T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Glucose [Mass/volume] in Blood. Value: 99.57 mg/dL. Date: 2020-09-26T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-7cd3-54889fa8d6b2",
+      "date": "2020-09-26T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Urea nitrogen [Mass/volume] in Blood. Value: 18.65 mg/dL. Date: 2020-09-26T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-e37f-1d566c9f331e",
+      "date": "2020-09-26T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Creatinine [Mass/volume] in Blood. Value: 1.53 mg/dL. Date: 2020-09-26T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-ccd3-b13dd2239980",
+      "date": "2020-09-26T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Calcium [Mass/volume] in Blood. Value: 8.55 mg/dL. Date: 2020-09-26T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-d025-e7881259e0ba",
+      "date": "2020-09-26T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Sodium [Moles/volume] in Blood. Value: 139.49 mmol/L. Date: 2020-09-26T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-368e-8519d36bfba2",
+      "date": "2020-09-26T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Potassium [Moles/volume] in Blood. Value: 4.83 mmol/L. Date: 2020-09-26T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-8b2a-8e1e51c64a14",
+      "date": "2020-09-26T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Chloride [Moles/volume] in Blood. Value: 104.94 mmol/L. Date: 2020-09-26T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-1278-ed1289db9e3c",
+      "date": "2020-09-26T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Carbon dioxide, total [Moles/volume] in Blood. Value: 27.61 mmol/L. Date: 2020-09-26T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-24f7-0c35defc674a",
+      "date": "2020-09-26T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]. Value: 7 {score}. Date: 2020-09-26T15:27:30-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-3a23-dad910d769cd",
+      "date": "2020-09-26T15:27:30-07:00"
+    }
+  },
+  {
+    "text": "Medication: lisinopril 10 MG Oral Tablet. Status: completed. Ordered: 2020-09-26T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "MedicationRequest",
+      "resource_id": "73c1537e-544a-dc37-dd87-5193b61c74d3",
+      "date": "2020-09-26T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Stress (finding). Onset date: 2021-10-02T15:02:43-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-f556-6a00eb2f9d21",
+      "date": "2021-10-02T15:02:43-07:00"
+    }
+  },
+  {
+    "text": "Condition: Gingivitis (disorder). Onset date: 2021-10-02T16:18:45-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-ef09-e30ca52fbf3b",
+      "date": "2021-10-02T16:18:45-07:00"
+    }
+  },
+  {
+    "text": "Observation: Hemoglobin A1c/Hemoglobin.total in Blood. Value: 5.95 %. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-4dae-a2bbe06fcba6",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Height. Value: 183.6 cm. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-a262-96932c5d6875",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Pain severity - 0-10 verbal numeric rating [Score] - Reported. Value: 3 {score}. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-c859-002fdf87d6d4",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Weight. Value: 102.1 kg. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-ab87-9564c7b7e093",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body mass index (BMI) [Ratio]. Value: 30.29 kg/m2. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-affc-2876289d5790",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Heart rate. Value: 64 /min. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-faae-5ddfd8300c7c",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Respiratory rate. Value: 12 /min. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-2b82-1d8ab6d484f9",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Glucose [Mass/volume] in Blood. Value: 89.02 mg/dL. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-8822-072c4b0fcfec",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Urea nitrogen [Mass/volume] in Blood. Value: 15.08 mg/dL. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-e5a5-3d40d5255913",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Creatinine [Mass/volume] in Blood. Value: 1.52 mg/dL. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-3560-20fb9a64c5c2",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Calcium [Mass/volume] in Blood. Value: 9.33 mg/dL. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-26c6-ec52ded9c8c9",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Sodium [Moles/volume] in Blood. Value: 138.94 mmol/L. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-6442-fab676d81245",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Potassium [Moles/volume] in Blood. Value: 3.79 mmol/L. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-b700-948fcc8ab86c",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Chloride [Moles/volume] in Blood. Value: 101.57 mmol/L. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-9e26-8c84e08a221e",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Carbon dioxide, total [Moles/volume] in Blood. Value: 28.69 mmol/L. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-1806-1b8caf0edd3c",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Cholesterol [Mass/volume] in Serum or Plasma. Value: 171.34 mg/dL. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-a08f-30c938b55ab2",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Triglyceride [Mass/volume] in Serum or Plasma. Value: 107.49 mg/dL. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-2bd2-bbd682c70ac6",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay. Value: 92.27 mg/dL. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-8c84-da10b0fc6119",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Cholesterol in HDL [Mass/volume] in Serum or Plasma. Value: 57.57 mg/dL. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-b6ed-b30ec725fad2",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Leukocytes [#/volume] in Blood by Automated count. Value: 4.0126 10*3/uL. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-b363-0d9c2acbaa39",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Erythrocytes [#/volume] in Blood by Automated count. Value: 4.4645 10*6/uL. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-d8da-3a03cebc8253",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Hemoglobin [Mass/volume] in Blood. Value: 16.24 g/dL. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-7b7d-cb4d66f71409",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Hematocrit [Volume Fraction] of Blood by Automated count. Value: 41.397 %. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-4616-0b66a9403e2a",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: MCV [Entitic mean volume] in Red Blood Cells by Automated count. Value: 89.284 fL. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-00f8-60284b459e0c",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: MCH [Entitic mass] by Automated count. Value: 30.821 pg. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-5b86-7b72ac3566e4",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: MCHC [Entitic Mass/volume] in Red Blood Cells by Automated count. Value: 35.211 g/dL. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-82ad-e9977f2bda57",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Erythrocyte [DistWidth] in Blood by Automated count. Value: 42.949 fL. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-6a67-a1f441a73650",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Platelets [#/volume] in Blood by Automated count. Value: 399.56 10*3/uL. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-1e0d-7de28aec2c14",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Platelet distribution width [Entitic volume] in Blood by Automated count. Value: 13.059 fL. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-3855-b9d75d523492",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Platelet [Entitic mean volume] in Blood by Automated count. Value: 11.104 fL. Date: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-1e22-e4bf6a1055ff",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]. Value: 1 {score}. Date: 2021-10-02T15:40:10-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-b4ba-54a3d92cac25",
+      "date": "2021-10-02T15:40:10-07:00"
+    }
+  },
+  {
+    "text": "Observation: Total score [AUDIT-C]. Value: 0 {score}. Date: 2021-10-02T16:18:45-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-83be-860672f831a8",
+      "date": "2021-10-02T16:18:45-07:00"
+    }
+  },
+  {
+    "text": "Medication: lisinopril 10 MG Oral Tablet. Status: completed. Ordered: 2021-10-02T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "MedicationRequest",
+      "resource_id": "73c1537e-544a-dc37-0ae5-5918271c2380",
+      "date": "2021-10-02T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Medication review due (situation). Onset date: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-9982-513a9bc1f387",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Metabolic syndrome X (disorder). Onset date: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-3e86-c4b79343a5b8",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Reports of violence in the environment (finding). Onset date: 2022-10-08T14:40:39-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-c7a6-7b538f983de1",
+      "date": "2022-10-08T14:40:39-07:00"
+    }
+  },
+  {
+    "text": "Observation: Hemoglobin A1c/Hemoglobin.total in Blood. Value: 6.35 %. Date: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-f48d-5269440ad5c5",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Height. Value: 183.6 cm. Date: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-ac77-d85183fc6345",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Pain severity - 0-10 verbal numeric rating [Score] - Reported. Value: 3 {score}. Date: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-3440-c362050a0e37",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Weight. Value: 102.1 kg. Date: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-7f0c-f4b2620e0e85",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body mass index (BMI) [Ratio]. Value: 30.29 kg/m2. Date: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-3df0-eba8a4ca7081",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Heart rate. Value: 86 /min. Date: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-bb0e-6913f7e5d58c",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Respiratory rate. Value: 12 /min. Date: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-b534-063e52cc5bbe",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Glucose [Mass/volume] in Blood. Value: 90.48 mg/dL. Date: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-4468-ad584877204d",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Urea nitrogen [Mass/volume] in Blood. Value: 11.31 mg/dL. Date: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-4b16-3d014aeb968f",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Creatinine [Mass/volume] in Blood. Value: 1.71 mg/dL. Date: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-d0ea-1c80342bf833",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Calcium [Mass/volume] in Blood. Value: 9.26 mg/dL. Date: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-f906-9df7f5092bce",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Sodium [Moles/volume] in Blood. Value: 137.01 mmol/L. Date: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-d632-8c4fc7d78a2b",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Potassium [Moles/volume] in Blood. Value: 4.07 mmol/L. Date: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-9e51-516b5244ddcb",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Chloride [Moles/volume] in Blood. Value: 108.69 mmol/L. Date: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-ac74-e9406e752a7c",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Carbon dioxide, total [Moles/volume] in Blood. Value: 25.9 mmol/L. Date: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-78e5-7d93f1588134",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Total score [HARK]. Value: 0 {score}. Date: 2022-10-08T15:13:50-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-69a1-d0f00e391116",
+      "date": "2022-10-08T15:13:50-07:00"
+    }
+  },
+  {
+    "text": "Observation: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]. Value: 0 {score}. Date: 2022-10-08T15:55:25-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-7bba-53251bb78eaf",
+      "date": "2022-10-08T15:55:25-07:00"
+    }
+  },
+  {
+    "text": "Observation: Total score [DAST-10]. Value: 1 {score}. Date: 2022-10-08T16:36:56-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-5c22-e982c451afc0",
+      "date": "2022-10-08T16:36:56-07:00"
+    }
+  },
+  {
+    "text": "Medication: lisinopril 10 MG Oral Tablet. Status: completed. Ordered: 2022-10-08T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "MedicationRequest",
+      "resource_id": "73c1537e-544a-dc37-2615-b412e07634ac",
+      "date": "2022-10-08T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Acute viral pharyngitis (disorder). Onset date: 2022-10-12T08:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-89dd-be9ac930518b",
+      "date": "2022-10-12T08:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body temperature. Value: 37.449 Cel. Date: 2022-10-12T08:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-e004-8536527993e2",
+      "date": "2022-10-12T08:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Medication review due (situation). Onset date: 2023-10-14T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-2955-b5932c235f8b",
+      "date": "2023-10-14T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Hemoglobin A1c/Hemoglobin.total in Blood. Value: 6.39 %. Date: 2023-10-14T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-74bc-d66637b789a3",
+      "date": "2023-10-14T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Height. Value: 183.6 cm. Date: 2023-10-14T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-b2b1-8345687d463d",
+      "date": "2023-10-14T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Pain severity - 0-10 verbal numeric rating [Score] - Reported. Value: 2 {score}. Date: 2023-10-14T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-70f9-7514cdf032ef",
+      "date": "2023-10-14T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Weight. Value: 102.1 kg. Date: 2023-10-14T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-73da-fe0cea2282e1",
+      "date": "2023-10-14T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body mass index (BMI) [Ratio]. Value: 30.29 kg/m2. Date: 2023-10-14T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-55e4-e89cfa2e8ade",
+      "date": "2023-10-14T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Heart rate. Value: 69 /min. Date: 2023-10-14T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-11d6-a1a48ddd45f5",
+      "date": "2023-10-14T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Respiratory rate. Value: 13 /min. Date: 2023-10-14T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-4ae9-6b0e1ae842e3",
+      "date": "2023-10-14T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Glucose [Mass/volume] in Blood. Value: 99.76 mg/dL. Date: 2023-10-14T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-c42c-94cb4f15ab81",
+      "date": "2023-10-14T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Urea nitrogen [Mass/volume] in Blood. Value: 15.16 mg/dL. Date: 2023-10-14T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-1677-555a0bd3231c",
+      "date": "2023-10-14T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Creatinine [Mass/volume] in Blood. Value: 1.49 mg/dL. Date: 2023-10-14T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-a103-50c960e435b4",
+      "date": "2023-10-14T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Calcium [Mass/volume] in Blood. Value: 9.4 mg/dL. Date: 2023-10-14T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-cebc-082198e63d6f",
+      "date": "2023-10-14T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Sodium [Moles/volume] in Blood. Value: 139.68 mmol/L. Date: 2023-10-14T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-ce7a-0d6f871b2367",
+      "date": "2023-10-14T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Potassium [Moles/volume] in Blood. Value: 4.82 mmol/L. Date: 2023-10-14T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-09df-59073cb67c41",
+      "date": "2023-10-14T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Chloride [Moles/volume] in Blood. Value: 102.15 mmol/L. Date: 2023-10-14T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-b877-496b09982436",
+      "date": "2023-10-14T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Carbon dioxide, total [Moles/volume] in Blood. Value: 28.25 mmol/L. Date: 2023-10-14T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-6b21-6c4af24a8a70",
+      "date": "2023-10-14T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]. Value: 0 {score}. Date: 2023-10-14T15:51:52-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-2ca6-e635899f6c7b",
+      "date": "2023-10-14T15:51:52-07:00"
+    }
+  },
+  {
+    "text": "Observation: Total score [AUDIT-C]. Value: 1 {score}. Date: 2023-10-14T16:29:36-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-fa65-c43e3e9c640e",
+      "date": "2023-10-14T16:29:36-07:00"
+    }
+  },
+  {
+    "text": "Medication: lisinopril 10 MG Oral Tablet. Status: completed. Ordered: 2023-10-14T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "MedicationRequest",
+      "resource_id": "73c1537e-544a-dc37-4abf-7faf41ed62a4",
+      "date": "2023-10-14T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Medication review due (situation). Onset date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-4d4b-eb8b851db96d",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Gingivitis (disorder). Onset date: 2024-10-19T16:20:15-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-10a6-9f381c8c6c78",
+      "date": "2024-10-19T16:20:15-07:00"
+    }
+  },
+  {
+    "text": "Observation: Hemoglobin A1c/Hemoglobin.total in Blood. Value: 6.21 %. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-4974-1207c55bfae8",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Height. Value: 183.6 cm. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-0c50-f72903e4a59b",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Pain severity - 0-10 verbal numeric rating [Score] - Reported. Value: 2 {score}. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-5369-642831eb409c",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Weight. Value: 100.5 kg. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-4bbe-fcdaa1e940c6",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body mass index (BMI) [Ratio]. Value: 29.81 kg/m2. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-b3d6-8371c3994df9",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Heart rate. Value: 73 /min. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-9cf5-bbbc7611eda5",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Respiratory rate. Value: 15 /min. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-7482-9677026cf7ff",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Glucose [Mass/volume] in Blood. Value: 78.69 mg/dL. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-1b49-9f9609733828",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Urea nitrogen [Mass/volume] in Blood. Value: 19.75 mg/dL. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-6aa9-c26e68a04745",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Creatinine [Mass/volume] in Blood. Value: 1.84 mg/dL. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-a96d-e90b6e1a8ebe",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Calcium [Mass/volume] in Blood. Value: 9.64 mg/dL. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-7c25-0b879700feb2",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Sodium [Moles/volume] in Blood. Value: 142.18 mmol/L. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-4d61-e39708648bc2",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Potassium [Moles/volume] in Blood. Value: 4.81 mmol/L. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-595a-fa9c65528292",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Chloride [Moles/volume] in Blood. Value: 101.82 mmol/L. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-69f9-874283ffe7d2",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Carbon dioxide, total [Moles/volume] in Blood. Value: 23.35 mmol/L. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-25d6-1db527e02ccf",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Cholesterol [Mass/volume] in Serum or Plasma. Value: 201.21 mg/dL. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-e587-7d3a1f37853e",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Triglyceride [Mass/volume] in Serum or Plasma. Value: 139.23 mg/dL. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-e754-66a14c1c9bc3",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay. Value: 119.17 mg/dL. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-45d8-bf4db8dd2b35",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Cholesterol in HDL [Mass/volume] in Serum or Plasma. Value: 54.19 mg/dL. Date: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-6cad-a274432ebbb8",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Generalized anxiety disorder 7 item (GAD-7) total score [Reported.PHQ]. Value: 1 {score}. Date: 2024-10-19T15:06:02-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-e4fb-2823e8795f6f",
+      "date": "2024-10-19T15:06:02-07:00"
+    }
+  },
+  {
+    "text": "Observation: Patient Health Questionnaire 2 item (PHQ-2) total score [Reported]. Value: 2 {score}. Date: 2024-10-19T15:41:00-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-acdc-209d1152d2da",
+      "date": "2024-10-19T15:41:00-07:00"
+    }
+  },
+  {
+    "text": "Observation: Total score [DAST-10]. Value: 1 {score}. Date: 2024-10-19T16:20:15-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-d4de-ed4b6026a494",
+      "date": "2024-10-19T16:20:15-07:00"
+    }
+  },
+  {
+    "text": "Medication: lisinopril 10 MG Oral Tablet. Status: completed. Ordered: 2024-10-19T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "MedicationRequest",
+      "resource_id": "73c1537e-544a-dc37-4d9f-5c1fadb73012",
+      "date": "2024-10-19T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Gingival disease (disorder). Onset date: 2024-11-02T17:13:32-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-2e99-ab4dd435504e",
+      "date": "2024-11-02T17:13:32-07:00"
+    }
+  },
+  {
+    "text": "Condition: Medication review due (situation). Onset date: 2025-10-25T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-83ed-9b802848542d",
+      "date": "2025-10-25T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Hemoglobin A1c/Hemoglobin.total in Blood. Value: 6.28 %. Date: 2025-10-25T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-6abe-b2c1dc5a7267",
+      "date": "2025-10-25T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Height. Value: 183.6 cm. Date: 2025-10-25T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-6561-0b754e48fb42",
+      "date": "2025-10-25T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Pain severity - 0-10 verbal numeric rating [Score] - Reported. Value: 3 {score}. Date: 2025-10-25T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-4ecd-b0c267f9a8ec",
+      "date": "2025-10-25T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body Weight. Value: 94.2 kg. Date: 2025-10-25T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-f021-57a9961b5b09",
+      "date": "2025-10-25T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Body mass index (BMI) [Ratio]. Value: 27.93 kg/m2. Date: 2025-10-25T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-44b5-c929011b70cd",
+      "date": "2025-10-25T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Heart rate. Value: 77 /min. Date: 2025-10-25T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-d46d-229688fbe908",
+      "date": "2025-10-25T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Respiratory rate. Value: 12 /min. Date: 2025-10-25T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-dc34-ccc118104c40",
+      "date": "2025-10-25T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Glucose [Mass/volume] in Blood. Value: 89.12 mg/dL. Date: 2025-10-25T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-20d5-0f60c1578984",
+      "date": "2025-10-25T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Urea nitrogen [Mass/volume] in Blood. Value: 18.7 mg/dL. Date: 2025-10-25T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-d389-247d94aa803b",
+      "date": "2025-10-25T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Creatinine [Mass/volume] in Blood. Value: 1.35 mg/dL. Date: 2025-10-25T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-6218-0d2d4bc24c6c",
+      "date": "2025-10-25T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Calcium [Mass/volume] in Blood. Value: 8.64 mg/dL. Date: 2025-10-25T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-2b98-496f19d414e7",
+      "date": "2025-10-25T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Sodium [Moles/volume] in Blood. Value: 143.97 mmol/L. Date: 2025-10-25T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-5983-fdbb4e6eecd6",
+      "date": "2025-10-25T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Potassium [Moles/volume] in Blood. Value: 4.77 mmol/L. Date: 2025-10-25T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-d360-06cad9c8bfd7",
+      "date": "2025-10-25T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Chloride [Moles/volume] in Blood. Value: 109.89 mmol/L. Date: 2025-10-25T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-6dd4-d31988603d8d",
+      "date": "2025-10-25T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Carbon dioxide, total [Moles/volume] in Blood. Value: 23.18 mmol/L. Date: 2025-10-25T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-f80a-b8eda3d647d9",
+      "date": "2025-10-25T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Observation: Total score [DAST-10]. Value: 1 {score}. Date: 2025-10-25T15:44:02-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Observation",
+      "resource_id": "73c1537e-544a-dc37-42a0-298208ea2238",
+      "date": "2025-10-25T15:44:02-07:00"
+    }
+  },
+  {
+    "text": "Medication: lisinopril 10 MG Oral Tablet. Status: active. Ordered: 2025-10-25T14:10:08-07:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "MedicationRequest",
+      "resource_id": "73c1537e-544a-dc37-76fb-309b7335ae7b",
+      "date": "2025-10-25T14:10:08-07:00"
+    }
+  },
+  {
+    "text": "Condition: Infection of tooth (disorder). Onset date: 2025-11-08T15:20:02-08:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-7b51-6771db5979d9",
+      "date": "2025-11-08T15:20:02-08:00"
+    }
+  },
+  {
+    "text": "Condition: Gingival disease (disorder). Onset date: 2025-11-08T19:11:59-08:00",
+    "metadata": {
+      "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+      "source": "FHIR",
+      "source_file": "Albert312_Gottlieb798_73c1537e-544a-dc37-2f2c-55f53a1496cd.json",
+      "resource_type": "Condition",
+      "resource_id": "73c1537e-544a-dc37-c2dd-828fe491d212",
+      "date": "2025-11-08T19:11:59-08:00"
+    }
+  }
+]

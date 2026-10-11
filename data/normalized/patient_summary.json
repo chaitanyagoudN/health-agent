@@ -1,0 +1,150 @@
+{
+    "patient": {
+        "name": "Albert312 Bryce11 Gottlieb798",
+        "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
+        "gender": "male",
+        "birth_date": "1988-06-25"
+    },
+    "conditions": [
+        "Medication review due (situation)",
+        "Prediabetes (finding)",
+        "Received higher education (finding)",
+        "Chronic pain (finding)",
+        "Full-time employment (finding)",
+        "Essential hypertension (disorder)",
+        "Anemia (disorder)",
+        "Stress (finding)",
+        "Not in labor force (finding)",
+        "Misuses drugs (finding)",
+        "Body mass index 30+ - obesity (finding)",
+        "Acute bronchitis (disorder)",
+        "Part-time employment (finding)",
+        "Gingivitis (disorder)",
+        "Metabolic syndrome X (disorder)",
+        "Reports of violence in the environment (finding)",
+        "Acute viral pharyngitis (disorder)",
+        "Gingival disease (disorder)",
+        "Infection of tooth (disorder)"
+    ],
+    "active_medications": [
+        "lisinopril 10 MG Oral Tablet"
+    ],
+    "latest_health_data": {
+        "Blood pressure panel with all children optional": {
+            "date": "2025-10-25T14:10:08-07:00",
+            "result": {
+                "components": [
+                    {
+                        "name": "Diastolic Blood Pressure",
+                        "value": 96,
+                        "unit": "mm[Hg]"
+                    },
+                    {
+                        "name": "Systolic Blood Pressure",
+                        "value": 142,
+                        "unit": "mm[Hg]"
+                    }
+                ]
+            }
+        },
+        "Hemoglobin A1c/Hemoglobin.total in Blood": {
+            "date": "2025-10-25T14:10:08-07:00",
+            "result": {
+                "value": 6.28,
+                "unit": "%"
+            }
+        },
+        "Body Weight": {
+            "date": "2025-10-25T14:10:08-07:00",
+            "result": {
+                "value": 94.2,
+                "unit": "kg"
+            }
+        },
+        "Body mass index (BMI) [Ratio]": {
+            "date": "2025-10-25T14:10:08-07:00",
+            "result": {
+                "value": 27.93,
+                "unit": "kg/m2"
+            }
+        },
+        "Heart rate": {
+            "date": "2025-10-25T14:10:08-07:00",
+            "result": {
+                "value": 77,
+                "unit": "/min"
+            }
+        },
+        "Glucose [Mass/volume] in Blood": {
+            "date": "2025-10-25T14:10:08-07:00",
+            "result": {
+                "value": 89.12,
+                "unit": "mg/dL"
+            }
+        },
+        "Creatinine [Mass/volume] in Blood": {
+            "date": "2025-10-25T14:10:08-07:00",
+            "result": {
+                "value": 1.35,
+                "unit": "mg/dL"
+            }
+        },
+        "Tobacco smoking status": {
+            "date": "2025-10-25T14:10:08-07:00",
+            "result": {
+                "value": "Ex-smoker (finding)",
+                "unit": ""
+            }
+        },
+        "Cholesterol [Mass/volume] in Serum or Plasma": {
+            "date": "2024-10-19T14:10:08-07:00",
+            "result": {
+                "value": 201.21,
+                "unit": "mg/dL"
+            }
+        },
+        "Triglyceride [Mass/volume] in Serum or Plasma": {
+            "date": "2024-10-19T14:10:08-07:00",
+            "result": {
+                "value": 139.23,
+                "unit": "mg/dL"
+            }
+        },
+        "Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay": {
+            "date": "2024-10-19T14:10:08-07:00",
+            "result": {
+                "value": 119.17,
+                "unit": "mg/dL"
+            }
+        },
+        "Cholesterol in HDL [Mass/volume] in Serum or Plasma": {
+            "date": "2024-10-19T14:10:08-07:00",
+            "result": {
+                "value": 54.19,
+                "unit": "mg/dL"
+            }
+        }
+    },
+    "recent_encounters": [
+        {
+            "date": "2023-10-14T14:10:08-07:00",
+            "type": "General examination of patient (procedure)"
+        },
+        {
+            "date": "2024-10-19T14:10:08-07:00",
+            "type": "General examination of patient (procedure)"
+        },
+        {
+            "date": "2024-11-02T14:10:08-07:00",
+            "type": "Encounter for check up (procedure)"
+        },
+        {
+            "date": "2025-10-25T14:10:08-07:00",
+            "type": "General examination of patient (procedure)"
+        },
+        {
+            "date": "2025-11-08T13:10:08-08:00",
+            "type": "Encounter for check up (procedure)"
+        }
+    ]
+}
