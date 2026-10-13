@@ -346,3 +346,4 @@ if __name__ == "__main__":
 
     print("\nFINAL VALIDATION:", result["validation"])
     print("\nTEXT SUMMARY:\n", result["summary"])
+
