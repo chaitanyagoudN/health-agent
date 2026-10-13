@@ -1,0 +1,434 @@
+{
+  "medical_history": [
+    {
+      "condition": "Medication review due (situation)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-5cdb-528c1c8bc3b4]",
+        "[FHIR Condition: 73c1537e-544a-dc37-c6c8-da3662f34913]",
+        "[FHIR Condition: 73c1537e-544a-dc37-959c-a2724b3cfc5d]",
+        "[FHIR Condition: 73c1537e-544a-dc37-9982-513a9bc1f387]",
+        "[FHIR Condition: 73c1537e-544a-dc37-2955-b5932c235f8b]",
+        "[FHIR Condition: 73c1537e-544a-dc37-4d4b-eb8b851db96d]",
+        "[FHIR Condition: 73c1537e-544a-dc37-83ed-9b802848542d]"
+      ]
+    },
+    {
+      "condition": "Prediabetes (finding)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-4d48-85250ce84ff1]"
+      ]
+    },
+    {
+      "condition": "Received higher education (finding)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-7726-45b31f2d78df]"
+      ]
+    },
+    {
+      "condition": "Chronic pain (finding)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-e93d-1a1e042b17bc]"
+      ]
+    },
+    {
+      "condition": "Full-time employment (finding)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-0672-150e04b68682]",
+        "[FHIR Condition: 73c1537e-544a-dc37-ac57-1acd23db7c44]",
+        "[FHIR Condition: 73c1537e-544a-dc37-1610-814d96a4d0c3]"
+      ]
+    },
+    {
+      "condition": "Essential hypertension (disorder)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-fa52-276bbb1a29e3]"
+      ]
+    },
+    {
+      "condition": "Anemia (disorder)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-4b16-a89b51c1d69c]"
+      ]
+    },
+    {
+      "condition": "Stress (finding)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-3b96-56f0aa2980ff]",
+        "[FHIR Condition: 73c1537e-544a-dc37-f556-6a00eb2f9d21]"
+      ]
+    },
+    {
+      "condition": "Not in labor force (finding)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-6ea1-fe4bb24d0512]"
+      ]
+    },
+    {
+      "condition": "Misuses drugs (finding)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-d84f-af11c2865bf9]"
+      ]
+    },
+    {
+      "condition": "Body mass index 30+ - obesity (finding)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-032c-e3fe56ac896b]"
+      ]
+    },
+    {
+      "condition": "Acute bronchitis (disorder)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-7994-a5d2dae046d9]"
+      ]
+    },
+    {
+      "condition": "Part-time employment (finding)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-3e1c-e14a1b54fe7d]"
+      ]
+    },
+    {
+      "condition": "Gingivitis (disorder)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-ef09-e30ca52fbf3b]",
+        "[FHIR Condition: 73c1537e-544a-dc37-10a6-9f381c8c6c78]"
+      ]
+    },
+    {
+      "condition": "Metabolic syndrome X (disorder)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-3e86-c4b79343a5b8]"
+      ]
+    },
+    {
+      "condition": "Reports of violence in the environment (finding)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-c7a6-7b538f983de1]"
+      ]
+    },
+    {
+      "condition": "Acute viral pharyngitis (disorder)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-89dd-be9ac930518b]"
+      ]
+    },
+    {
+      "condition": "Gingival disease (disorder)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-2e99-ab4dd435504e]",
+        "[FHIR Condition: 73c1537e-544a-dc37-c2dd-828fe491d212]"
+      ]
+    },
+    {
+      "condition": "Infection of tooth (disorder)",
+      "status": "unknown",
+      "citations": [
+        "[FHIR Condition: 73c1537e-544a-dc37-7b51-6771db5979d9]"
+      ]
+    }
+  ],
+  "medications": [
+    {
+      "name": "lisinopril 10 MG Oral Tablet",
+      "order_status": "completed",
+      "citations": [
+        "[FHIR MedicationRequest: 73c1537e-544a-dc37-63c0-65751c5af3cd]",
+        "[FHIR MedicationRequest: 73c1537e-544a-dc37-7ae0-bddf48e3089a]",
+        "[FHIR MedicationRequest: 73c1537e-544a-dc37-14b1-42f3976bc19d]",
+        "[FHIR MedicationRequest: 73c1537e-544a-dc37-f21d-e57485c7ed12]",
+        "[FHIR MedicationRequest: 73c1537e-544a-dc37-982a-548f47a56593]",
+        "[FHIR MedicationRequest: 73c1537e-544a-dc37-dd87-5193b61c74d3]",
+        "[FHIR MedicationRequest: 73c1537e-544a-dc37-0ae5-5918271c2380]",
+        "[FHIR MedicationRequest: 73c1537e-544a-dc37-2615-b412e07634ac]",
+        "[FHIR MedicationRequest: 73c1537e-544a-dc37-4abf-7faf41ed62a4]",
+        "[FHIR MedicationRequest: 73c1537e-544a-dc37-4d9f-5c1fadb73012]"
+      ]
+    },
+    {
+      "name": "lisinopril 10 MG Oral Tablet",
+      "order_status": "active",
+      "citations": [
+        "[FHIR MedicationRequest: 73c1537e-544a-dc37-76fb-309b7335ae7b]"
+      ]
+    },
+    {
+      "name": "sodium fluoride 0.0272 MG/MG Oral Gel",
+      "order_status": "completed",
+      "citations": [
+        "[FHIR MedicationRequest: 73c1537e-544a-dc37-ffe0-51d315ea3f34]",
+        "[FHIR MedicationRequest: 73c1537e-544a-dc37-227d-1dd98e51475f]"
+      ]
+    },
+    {
+      "name": "Acetaminophen 325 MG Oral Tablet",
+      "order_status": "completed",
+      "citations": [
+        "[FHIR MedicationRequest: 73c1537e-544a-dc37-c6e0-e23379302f9b]"
+      ]
+    }
+  ],
+  "laboratory_results": [
+    {
+      "test": "Hemoglobin A1c/Hemoglobin.total in Blood",
+      "value": "5.88",
+      "unit": "%",
+      "date": "2017-09-09T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-c0a7-4f542fba8a5c]"
+      ]
+    },
+    {
+      "test": "Hemoglobin A1c/Hemoglobin.total in Blood",
+      "value": "5.95",
+      "unit": "%",
+      "date": "2021-10-02T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-4dae-a2bbe06fcba6]"
+      ]
+    },
+    {
+      "test": "Hemoglobin A1c/Hemoglobin.total in Blood",
+      "value": "6.28",
+      "unit": "%",
+      "date": "2025-10-25T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-6abe-b2c1dc5a7267]"
+      ]
+    },
+    {
+      "test": "Body Weight",
+      "value": "98",
+      "unit": "kg",
+      "date": "2017-09-09T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-0136-7983c3a7268f]"
+      ]
+    },
+    {
+      "test": "Body Weight",
+      "value": "102.1",
+      "unit": "kg",
+      "date": "2021-10-02T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-ab87-9564c7b7e093]"
+      ]
+    },
+    {
+      "test": "Body Weight",
+      "value": "94.2",
+      "unit": "kg",
+      "date": "2025-10-25T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-f021-57a9961b5b09]"
+      ]
+    },
+    {
+      "test": "Body mass index (BMI) [Ratio]",
+      "value": "29.07",
+      "unit": "kg/m2",
+      "date": "2017-09-09T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-e3e0-87c2a15a353f]"
+      ]
+    },
+    {
+      "test": "Body mass index (BMI) [Ratio]",
+      "value": "30.29",
+      "unit": "kg/m2",
+      "date": "2021-10-02T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-affc-2876289d5790]"
+      ]
+    },
+    {
+      "test": "Body mass index (BMI) [Ratio]",
+      "value": "27.93",
+      "unit": "kg/m2",
+      "date": "2025-10-25T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-44b5-c929011b70cd]"
+      ]
+    },
+    {
+      "test": "Glucose [Mass/volume] in Blood",
+      "value": "82.57",
+      "unit": "mg/dL",
+      "date": "2017-09-09T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-2665-bf119bae8163]"
+      ]
+    },
+    {
+      "test": "Glucose [Mass/volume] in Blood",
+      "value": "89.02",
+      "unit": "mg/dL",
+      "date": "2021-10-02T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-8822-072c4b0fcfec]"
+      ]
+    },
+    {
+      "test": "Glucose [Mass/volume] in Blood",
+      "value": "89.12",
+      "unit": "mg/dL",
+      "date": "2025-10-25T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-20d5-0f60c1578984]"
+      ]
+    },
+    {
+      "test": "Creatinine [Mass/volume] in Blood",
+      "value": "1.6",
+      "unit": "mg/dL",
+      "date": "2017-09-09T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-1f41-b0f5c68a4dd0]"
+      ]
+    },
+    {
+      "test": "Creatinine [Mass/volume] in Blood",
+      "value": "1.52",
+      "unit": "mg/dL",
+      "date": "2021-10-02T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-3560-20fb9a64c5c2]"
+      ]
+    },
+    {
+      "test": "Creatinine [Mass/volume] in Blood",
+      "value": "1.35",
+      "unit": "mg/dL",
+      "date": "2025-10-25T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-6218-0d2d4bc24c6c]"
+      ]
+    },
+    {
+      "test": "Cholesterol [Mass/volume] in Serum or Plasma",
+      "value": "154.55",
+      "unit": "mg/dL",
+      "date": "2018-09-15T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-36e4-7d5513b3bb81]"
+      ]
+    },
+    {
+      "test": "Cholesterol [Mass/volume] in Serum or Plasma",
+      "value": "171.34",
+      "unit": "mg/dL",
+      "date": "2021-10-02T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-a08f-30c938b55ab2]"
+      ]
+    },
+    {
+      "test": "Cholesterol [Mass/volume] in Serum or Plasma",
+      "value": "201.21",
+      "unit": "mg/dL",
+      "date": "2024-10-19T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-e587-7d3a1f37853e]"
+      ]
+    },
+    {
+      "test": "Triglyceride [Mass/volume] in Serum or Plasma",
+      "value": "113.09",
+      "unit": "mg/dL",
+      "date": "2018-09-15T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-5b53-38750843b6ea]"
+      ]
+    },
+    {
+      "test": "Triglyceride [Mass/volume] in Serum or Plasma",
+      "value": "107.49",
+      "unit": "mg/dL",
+      "date": "2021-10-02T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-2bd2-bbd682c70ac6]"
+      ]
+    },
+    {
+      "test": "Triglyceride [Mass/volume] in Serum or Plasma",
+      "value": "139.23",
+      "unit": "mg/dL",
+      "date": "2024-10-19T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-e754-66a14c1c9bc3]"
+      ]
+    },
+    {
+      "test": "Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay",
+      "value": "71.04",
+      "unit": "mg/dL",
+      "date": "2018-09-15T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-7f6e-860786396534]"
+      ]
+    },
+    {
+      "test": "Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay",
+      "value": "92.27",
+      "unit": "mg/dL",
+      "date": "2021-10-02T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-8c84-da10b0fc6119]"
+      ]
+    },
+    {
+      "test": "Cholesterol in LDL [Mass/volume] in Serum or Plasma by Direct assay",
+      "value": "119.17",
+      "unit": "mg/dL",
+      "date": "2024-10-19T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-45d8-bf4db8dd2b35]"
+      ]
+    },
+    {
+      "test": "Cholesterol in HDL [Mass/volume] in Serum or Plasma",
+      "value": "60.89",
+      "unit": "mg/dL",
+      "date": "2018-09-15T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-b3b0-4a5d17291f70]"
+      ]
+    },
+    {
+      "test": "Cholesterol in HDL [Mass/volume] in Serum or Plasma",
+      "value": "57.57",
+      "unit": "mg/dL",
+      "date": "2021-10-02T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-b6ed-b30ec725fad2]"
+      ]
+    },
+    {
+      "test": "Cholesterol in HDL [Mass/volume] in Serum or Plasma",
+      "value": "54.19",
+      "unit": "mg/dL",
+      "date": "2024-10-19T14:10:08-07:00",
+      "citations": [
+        "[FHIR Observation: 73c1537e-544a-dc37-6cad-a274432ebbb8]"
+      ]
+    }
+  ],
+  "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd"
+}

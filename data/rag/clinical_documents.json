@@ -297,7 +297,7 @@
     }
   },
   {
-    "text": "Medication: Medication reference: urn:uuid:dfc8440e-9e19-2c7e-a081-e5a5c931a9da. Status: completed. Ordered: 2017-09-23T16:38:53-07:00",
+    "text": "Medication: sodium fluoride 0.0272 MG/MG Oral Gel. Status: completed. Ordered: 2017-09-23T16:38:53-07:00",
     "metadata": {
       "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
       "source": "FHIR",
@@ -572,7 +572,7 @@
     }
   },
   {
-    "text": "Medication: Medication reference: urn:uuid:fbb92e02-65f1-5a41-f626-72e617792ffe. Status: completed. Ordered: 2018-09-29T16:41:06-07:00",
+    "text": "Medication: sodium fluoride 0.0272 MG/MG Oral Gel. Status: completed. Ordered: 2018-09-29T16:41:06-07:00",
     "metadata": {
       "patient_id": "73c1537e-544a-dc37-2f2c-55f53a1496cd",
       "source": "FHIR",
